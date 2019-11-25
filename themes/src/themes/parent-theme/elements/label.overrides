@@ -74,7 +74,7 @@ a.ui.purple.labels {
   color: @offBlack !important;
 }
 
-.ui.pink.label {
+.pink {
   color: @offBlack;
   background-color: @lighterPink;
 }
