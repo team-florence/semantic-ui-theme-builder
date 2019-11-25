@@ -73,3 +73,8 @@ a.ui.purple.labels {
 .ui.yellow.labels {
   color: @offBlack !important;
 }
+
+.ui.pink.label {
+  color: @offBlack;
+  background-color: @lighterPink;
+}
