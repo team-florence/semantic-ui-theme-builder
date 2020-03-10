@@ -1,0 +1,16 @@
+.ui.toggle.checkbox {
+  > label {
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 22px;
+    color: @grey;
+  }
+
+  input:checked~label {
+    color: @grey !important;
+  }
+
+  label:hover:before {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+}
