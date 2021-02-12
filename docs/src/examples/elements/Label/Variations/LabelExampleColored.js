@@ -16,6 +16,8 @@ const colors = [
   'brown',
   'grey',
   'black',
+  'lighterPurple',
+  'lighterGrey',
 ]
 
 const LabelExampleColored = () => (
