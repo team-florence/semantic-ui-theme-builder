@@ -15,6 +15,8 @@ export const COLORS = [
   'brown',
   'grey',
   'black',
+  'lighterPurple',
+  'lighterGrey',
 ]
 export const FLOATS = ['left', 'right']
 export const SIZES = ['mini', 'tiny', 'small', 'medium', 'large', 'big', 'huge', 'massive']

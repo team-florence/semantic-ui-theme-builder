@@ -87,6 +87,8 @@ export type SemanticCOLORS =
   | 'brown'
   | 'grey'
   | 'black'
+  | 'lighterPurple'
+  | 'lighterGrey'
 export type SemanticSIZES =
   | 'mini'
   | 'tiny'
