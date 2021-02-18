@@ -849,3 +849,6 @@
 @purpleBorderColor : @purpleTextColor;
 @pinkBorderColor   : @pinkTextColor;
 @brownBorderColor  : @brownTextColor;
+
+@lighterPurple     : hsl(257, 83%, 87%);
+@lighterGrey       : #F5F2FD;

@@ -187,6 +187,9 @@
 @greyRibbonShadow: darken(@grey, 10);
 @blackRibbonShadow: darken(@black, 10);
 
+@lighterPurple: #D2C2F9;
+@lighterGrey: #F5F2FD;
+
 /* Attached */
 @attachedSegmentPadding: 2rem;
 @attachedVerticalPadding: 0.75em;
